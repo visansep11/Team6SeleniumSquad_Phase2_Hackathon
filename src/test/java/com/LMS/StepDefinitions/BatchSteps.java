@@ -248,7 +248,8 @@ public void the_delete_icon_on_row_level_in_data_table_is_enabled() {
 
 @When("Admin clicks the delete icon")
 public void admin_clicks_the_delete_icon() throws InterruptedException {
-	batchPage.searchBatchAndClickEdit("squad");
+	
+   batchPage.searchBatchAndClickDelete("squad");
    batchPage.clickRowDeleteBtn();
    LoggerLoad.info("****** Admin clicks on the delete button in the row ******");
 }
@@ -267,7 +268,7 @@ public void you_click_yes_option() {
 
 @Then("Batch deleted alert pops and batch is no more available in data table")
 public void batch_deleted_alert_pops_and_batch_is_no_more_available_in_data_table() {
-	LoggerLoad.info("");
+	LoggerLoad.info("****** The deleted data is not available in the data table ******");
 }
 
 @When("you click No option")
@@ -279,39 +280,40 @@ public void you_click_no_option() {
 @Then("Batch is still listed in data table")
 public void batch_is_still_listed_in_data_table() throws InterruptedException {
 	batchPage.searchBatchAndClickEdit("squad");
-	LoggerLoad.info("");
+	LoggerLoad.info("****** Batch is listed in the datatble ******");
 }
 
 @Given("None of the checkboxes in data table are selected")
 public void none_of_the_checkboxes_in_data_table_are_selected() {
-	LoggerLoad.info("");
+	LoggerLoad.info("****** Checkboxes are not selected ******");
 }
 
 @Then("The delete icon under the {string} header should be disabled")
 public void the_delete_icon_under_the_header_should_be_disabled(String string) {
-	LoggerLoad.info("");
+	Assert.assertFalse(batchPage.getDeleteAllManageBatch().isEnabled());
+	LoggerLoad.info("****** Delete all batch icon is disabled ******");
 }
 
 
 @Given("One of the checkbox row is selected")
 public void one_of_the_checkbox_row_is_selected() {
-	LoggerLoad.info("");
+	LoggerLoad.info("****** Checking one checkbox in the row ******");
 }
 
 
 @When("Click delete icon below {string} header")
 public void click_delete_icon_below_header(String string) {
-	LoggerLoad.info("");
+	LoggerLoad.info("******** Clicking delete all button under hedaer *******");
 }
 
 @Then("The respective row in the data table is deleted")
 public void the_respective_row_in_the_data_table_is_deleted() {
-	LoggerLoad.info("");
+	LoggerLoad.info("******** Batch is deleted from the datatable ****** ");
 }
 
 @Given("Two or more checkboxes\\/row is selected")
 public void two_or_more_checkboxes_row_is_selected() {
-	LoggerLoad.info("");
+	LoggerLoad.info("******* checking two or more checkboxes from the datatable ******");
 }
 
 

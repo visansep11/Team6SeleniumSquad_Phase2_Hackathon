@@ -177,6 +177,10 @@ WebElement edit_btn;
 
 @FindBy(xpath = "//button[@id='deleteProgram']")
 List<WebElement> deleteButtonsinRow;
+
+@FindBy  (xpath="//tr[@class='ng-star-inserted']//th//p-tableheadercheckbox") WebElement batchCheckbox;
+
+
  
  //SearchBox
 @FindBy (xpath="//input[@id='filterGlobal']") WebElement searchbox ;
@@ -452,24 +456,54 @@ public void ValidateEditDeleteIconInRows(){
 	}
 	
 	
+	
 //Validated new batch in datatable
 	public void checkValueInDatatable(String pgmname) throws InterruptedException {
-		searchbox.clear();
-		searchbox.sendKeys(pgmname);
-		Thread.sleep(500);
-		int rowCount=driver.findElements(By.xpath("//table[@role='grid']//tr")).size();
-		int columnCount=driver.findElements(By.xpath("//table[@role='grid']//th")).size();
-		for (int i=1;i<rowCount;i++) {
-				String batchdetails=driver.findElement(By.xpath("//table/tbody/tr["+(i+1)+"]/td[2]")).getText();
-				if (batchdetails.equals(pgmname)){
-					System.out.println(batchdetails);
-				//	System.out.println(i+"  :   "+j);
-					break;
-					
-				}
-				else 
-					System.out.println("Batch Details are not in datatable");
-			}
+//		searchbox.clear();
+//		searchbox.sendKeys(pgmname);
+//		Thread.sleep(500);
+//		int rowCount=driver.findElements(By.xpath("//table[@role='grid']//tr")).size();
+//		int columnCount=driver.findElements(By.xpath("//table[@role='grid']//th")).size();
+//		for (int i=1;i<rowCount;i++) {
+//				String batchdetails=driver.findElement(By.xpath("//table/tbody/tr["+(i+1)+"]/td[2]")).getText();
+//				if (batchdetails.equals(pgmname)){
+//					System.out.println(batchdetails);
+//				//	System.out.println(i+"  :   "+j);
+//					break;
+//					
+//				}
+//				else 
+//					System.out.println("Batch Details are not in datatable");
+//			}
+		int rowCount=0;
+		if(!pgmname.isEmpty()) {
+			searchbox.sendKeys(pgmname);
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+		List<WebElement> rows= driver.findElements(By.xpath("//p-table/div/div/table/tbody/tr"));
+		rowCount = rows.size();
+		//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		System.out.println("No of Records displayed are : " + rowCount);
+		
+	  for (int i=0;i<rowCount;i++) {
+			 
+		  String userdetails=driver.findElement(By.xpath("//table/tbody/tr["+(i+1)+"]/td[3]")).getText();
+			  System.out.println("Records: "+userdetails );
+		    if (userdetails.contains(pgmname)){
+		    	System.out.println("Record details are: "+userdetails);
+		    // System.out.println(i+"  :   "+j);
+		     break;
+		    
+		    }
+		  
+		}
+		try {
+			Thread.sleep(500);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		}
 		}
 	
 	//Search batch from datatable and click edit
@@ -478,6 +512,13 @@ public void ValidateEditDeleteIconInRows(){
 		searchbox.sendKeys(pgmname);
 		Thread.sleep(500);
 		searchicon.click();
+	}
+	
+	public void searchBatchAndClickDelete(String pgmname) throws InterruptedException {
+		searchbox.clear();
+		searchbox.sendKeys(pgmname);
+		Thread.sleep(500);
+		deleteIconRow.click();
 	}
 	
 	// Update Batch details 
@@ -584,8 +625,26 @@ public void checkBatchInDatatableAfterDeletion() {
 	String deletedBatchName = firstBatchNameInDatatable.getText();
 	LoggerLoad.info("The BatchName is" + deletedBatchName);
 	searchbox.sendKeys(deletedBatchName);
+	
+}
 
+public void checkIfCheckboxIscLicked() {
+	 boolean isChecked = false;
+	 
+	 List<WebElement> checkboxes = driver.findElements(By.xpath("//tbody//tr//td[1]"));
+		for(WebElement checkbox :checkboxes ) {
+		//	checkbox1.add(checkbox.getText());
+		}
+		if(batchCheckbox.isDisplayed())
+		{
 
+			System.out.println("Checkbox in Header is displayed");
+		}
+	 
+}
+
+public WebElement getDeleteAllManageBatch() {
+	return deleteAllBatchBtn;
 }
 
 }
