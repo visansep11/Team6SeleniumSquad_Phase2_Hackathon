@@ -136,8 +136,9 @@ WebElement classMandatoryMsg;
  
  @FindBy(xpath="//th[@psortablecolumn='programName']") WebElement pgmNameSort;
  
- @FindBy(xpath="//tbody")
-List <WebElement> batchDetailsTable;
+ @FindBy(xpath="//tbody") List <WebElement> batchDetailsTable;
+ 
+@FindBy(xpath="//tbody//tr[1]/td[2]") WebElement firstBatchNameInDatatable;
  
  
  //pagination
@@ -574,5 +575,17 @@ public void clickYesBtn() {
 	deleteYes.click();
 }
 
+public void clickNoBtn() {
+	deleteNo.click();
+}
+public void checkBatchInDatatableAfterDeletion() {
+	searchbox.clear();
+
+	String deletedBatchName = firstBatchNameInDatatable.getText();
+	LoggerLoad.info("The BatchName is" + deletedBatchName);
+	searchbox.sendKeys(deletedBatchName);
+
+
+}
 
 }

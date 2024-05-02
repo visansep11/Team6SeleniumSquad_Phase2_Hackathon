@@ -272,11 +272,13 @@ public void batch_deleted_alert_pops_and_batch_is_no_more_available_in_data_tabl
 
 @When("you click No option")
 public void you_click_no_option() {
-	LoggerLoad.info(""); 
+	batchPage.clickNoBtn();
+	LoggerLoad.info("****** Clicking on the No button in the confirmation dialog ******"); 
 }
 
 @Then("Batch is still listed in data table")
-public void batch_is_still_listed_in_data_table() {
+public void batch_is_still_listed_in_data_table() throws InterruptedException {
+	batchPage.searchBatchAndClickEdit("squad");
 	LoggerLoad.info("");
 }
 
