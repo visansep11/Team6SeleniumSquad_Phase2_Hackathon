@@ -1,17 +1,13 @@
 package com.LMS.AppHooks;
 import java.io.ByteArrayInputStream;
 import java.util.Properties;
-
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.Test;
-
 import com.LMS.DriverFactory.DriverFactory;
 import com.LMS.Utils.ConfigReader;
-
-import io.cucumber.java.After;
 import io.cucumber.java.AfterAll;
+import io.cucumber.java.AfterStep;
 import io.cucumber.java.BeforeAll;
 import io.cucumber.java.Scenario;
 import io.qameta.allure.Allure;
@@ -23,30 +19,20 @@ public class ApplicationHooks {
 	private static ConfigReader configReader;
 	static Properties prop;
 	
-	@Test
-	
-	@BeforeAll(order = 0)
-	public static void getProperty() throws Throwable {
+	@BeforeAll
+	public static void setup() {
+		// To get browser value from config.properties
 		configReader = new ConfigReader();
-		prop = configReader.init_prop();
-	}
+                prop = configReader.init_prop();
+		String browser = ConfigReader.getBrowser();
 
-	@BeforeAll(order = 1)
-	public static void launchBrowser() throws Throwable {
-		String browserName = prop.getProperty("browser");
+		// Driver is initialized from Driver Factory
 		driverFactory = new DriverFactory();
-		driver = driverFactory.init_driver(browserName);
-		
+		driver = driverFactory.init_driver(browser);
 	}
-
-	@AfterAll(order = 1)
-	public static void quitBrowser() {
-		System.out.println("Closing Driver");
-		driverFactory.closeallDriver();
-	}
-
-	@After(order = 0)
-	public static void tearDown(Scenario scenario) {
+	
+	@AfterStep
+	public static void take_screenshot(Scenario scenario) {
 		if (scenario.isFailed()) {
 			// take screenshot:
 			String screenshotName = scenario.getName().replaceAll(" ", "_");
@@ -57,4 +43,10 @@ public class ApplicationHooks {
 		}
 	}
 
+
+	@AfterAll
+	public static void tearDown() {
+		System.out.println("Closing Driver");
+		driverFactory.closeallDriver();
+	}
 }

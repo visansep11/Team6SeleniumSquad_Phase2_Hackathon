@@ -1,0 +1,1401 @@
+['INFO ]2024-04-25 17:00:25,539(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Using chromedriver 124.0.6367.91 (resolved driver for Chrome 124)
+['INFO ]2024-04-25 17:00:25,713(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+['INFO ]2024-04-25 17:00:26,970(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.online.Downloader1)-Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/124.0.6367.91/win64/chromedriver-win64.zip
+['ERROR]2024-04-25 17:00:27,182(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.online.HttpClient1)-Error HTTP 404 executing https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/124.0.6367.91/win64/chromedriver-win64.zip
+['INFO ]2024-04-25 17:00:27,186(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.cache.ResolutionCache1)-Clearing WebDriverManager resolution cache
+['WARN ]2024-04-25 17:00:27,190(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-There was an error managing chromedriver 124.0.6367.91 (Error HTTP 404 executing https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/124.0.6367.91/win64/chromedriver-win64.zip) ... trying again avoiding reading release from repository
+['INFO ]2024-04-25 17:00:27,901(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+['INFO ]2024-04-25 17:00:30,303(yyyy-MM-ddHH:mm:ss.SSS][main]io.github.bonigarcia.wdm.WebDriverManager1)-Exporting webdriver.chrome.driver as C:\Users\sanka\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+['INFO ]2024-04-27 03:14:03,645(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 03:14:03,692(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 03:14:03,738(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 03:16:00,068(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 03:16:00,118(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 03:16:00,180(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 04:12:08,517(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 04:12:08,552(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 04:12:08,605(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 04:19:28,327(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 04:19:28,359(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 04:19:28,415(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 04:21:34,766(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 04:21:34,809(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 04:21:34,865(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 04:21:34,952(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-27 04:24:59,203(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 04:24:59,246(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 04:24:59,298(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 18:36:13,702(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 18:36:13,784(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 18:36:13,888(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 18:37:59,480(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 18:37:59,600(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 18:37:59,819(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 19:12:26,140(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 19:12:26,266(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 19:12:26,438(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 19:43:02,080(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 19:43:02,256(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 19:43:02,537(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 19:45:01,183(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 19:45:01,313(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 19:45:01,486(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 19:50:26,649(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 19:50:26,777(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 19:50:26,987(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 20:02:29,738(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 20:02:29,854(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 20:02:30,016(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 20:11:07,985(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 20:11:08,084(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 20:11:08,226(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 20:14:04,787(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 20:14:04,865(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 20:14:04,978(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 20:14:05,069(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-27 20:14:40,024(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 20:14:40,104(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 20:14:40,201(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 20:14:40,263(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-27 20:17:27,057(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 20:17:28,395(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 20:17:29,167(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 20:17:29,328(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-27 20:17:29,467(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 20:21:43,582(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 20:21:43,729(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 20:21:43,937(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 20:21:44,076(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-27 20:59:20,420(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 20:59:20,612(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 20:59:20,984(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 20:59:21,303(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-27 23:06:18,052(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 23:06:18,097(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:06:18,148(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 23:06:18,200(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-27 23:21:22,105(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 23:21:22,141(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:21:22,196(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 23:21:22,336(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-27 23:25:07,481(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:25:08,258(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:30:47,016(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:30:47,650(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:31:56,566(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:31:57,218(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:37:53,296(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 23:37:53,335(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:37:53,386(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 23:37:53,415(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-27 23:39:39,794(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 23:39:39,826(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:39:39,888(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 23:39:39,922(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-27 23:39:40,051(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-27 23:40:28,967(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 23:40:29,005(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:40:29,056(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 23:40:50,334(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-27 23:41:24,875(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 23:41:24,908(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:41:24,958(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 23:41:25,555(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-27 23:41:25,691(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-27 23:53:15,432(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 23:53:15,478(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:53:15,529(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-27 23:54:52,554(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-27 23:54:52,586(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-27 23:54:52,644(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:01:06,857(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:01:06,891(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:01:06,953(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:01:07,106(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-28 00:06:27,157(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:06:27,196(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:06:27,249(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:06:27,400(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-28 00:18:00,240(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:18:00,270(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:18:00,324(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:25:30,155(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:25:30,189(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:25:30,240(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:25:30,267(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see footer text and total number of programs
+['INFO ]2024-04-28 00:27:15,183(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:27:15,216(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:27:15,268(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:27:15,304(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see footer text and total number of programs
+['INFO ]2024-04-28 00:28:39,439(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:28:39,473(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:28:39,528(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:29:13,816(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:29:13,852(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:29:13,902(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:29:13,932(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see footer text and total number of programs
+['INFO ]2024-04-28 00:44:34,998(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:44:35,038(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:44:35,094(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:49:34,375(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:49:34,407(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:49:34,461(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:51:16,463(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:51:16,494(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:51:16,548(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:52:50,758(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:52:50,795(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:52:50,851(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 00:56:33,299(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 00:56:33,333(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 00:56:33,385(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 01:02:24,257(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 01:02:24,292(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 01:02:24,343(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 01:02:24,370(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-04-28 01:19:59,469(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 01:19:59,505(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 01:19:59,557(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 01:19:59,581(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-04-28 01:20:45,863(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 01:20:45,893(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 01:20:45,947(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 01:20:45,972(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Add New Program button
+['INFO ]2024-04-28 01:22:06,883(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 01:22:06,914(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 01:22:06,966(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 02:54:46,555(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 02:54:46,625(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 02:54:46,681(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 02:54:48,240(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-28 03:25:55,560(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 03:25:55,587(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 03:25:55,642(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 03:25:55,643(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program column headers
+['INFO ]2024-04-28 04:03:21,074(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 04:03:21,113(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 04:03:21,174(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 04:03:21,254(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program column headers
+['INFO ]2024-04-28 04:21:49,208(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 04:21:49,244(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 04:21:49,292(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 04:21:49,356(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-28 04:42:31,693(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 04:42:31,722(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 04:42:31,773(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 04:42:31,818(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 05:09:41,809(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 05:09:41,849(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 05:09:41,905(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 05:21:22,831(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 05:21:22,865(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 05:21:22,917(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 05:23:24,599(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 05:23:24,626(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 05:23:24,677(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 05:23:24,740(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see search bar
+['INFO ]2024-04-28 05:24:47,323(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 05:24:47,360(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 05:24:47,421(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 05:24:48,078(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-28 05:24:48,237(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-28 05:24:48,265(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see footer text and total number of programs
+['INFO ]2024-04-28 05:24:48,298(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-04-28 05:24:48,332(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Add New Program button
+['INFO ]2024-04-28 05:24:49,015(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-28 05:24:49,079(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program column headers
+['INFO ]2024-04-28 05:24:49,132(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-28 05:24:49,170(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 05:24:49,221(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see search bar
+['INFO ]2024-04-28 14:17:46,543(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 14:17:46,618(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 14:17:46,699(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 14:17:46,738(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-04-28 14:17:46,762(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Add New Program button
+['INFO ]2024-04-28 14:17:47,128(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-28 14:17:47,212(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program column headers
+['INFO ]2024-04-28 14:17:47,277(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-28 14:17:47,323(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 14:17:47,390(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see search bar
+['INFO ]2024-04-28 14:19:42,085(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 14:19:42,115(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 14:19:42,169(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 14:19:42,205(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-04-28 14:25:21,646(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 14:25:21,687(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 14:25:21,737(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 14:25:21,773(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-04-28 14:26:48,134(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 14:26:48,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 14:26:48,225(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 14:26:48,260(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-04-28 14:51:37,381(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 14:51:37,424(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 14:51:37,479(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 14:51:37,536(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-04-28 15:31:42,634(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 15:31:42,676(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 15:31:42,725(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 16:13:05,654(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 16:13:05,687(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 16:13:05,738(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 16:13:05,800(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 16:15:42,563(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 16:15:42,592(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 16:15:42,646(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 16:15:42,712(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 16:17:41,152(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 16:17:41,183(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 16:17:41,241(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 16:17:41,304(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 16:22:13,095(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 16:22:13,124(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 16:22:13,176(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 16:22:33,250(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 16:37:46,111(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 16:37:46,144(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 16:37:46,199(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 16:37:46,255(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 16:38:19,333(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 16:38:19,369(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 16:38:19,422(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 16:38:19,472(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 18:32:56,747(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 18:32:56,781(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 18:32:56,836(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 18:32:56,893(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 18:36:54,021(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 18:36:54,060(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 18:36:54,111(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 18:36:54,177(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 20:00:32,234(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 20:00:32,274(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 20:00:32,327(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 20:00:32,382(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-28 20:04:51,277(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 20:04:51,314(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 20:04:51,368(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 20:04:51,451(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-28 20:18:10,657(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 20:18:10,695(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 20:18:10,750(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 20:18:10,808(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-28 20:19:26,364(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 20:19:26,393(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 20:19:26,445(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 20:19:26,534(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-28 21:05:41,297(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 21:05:41,332(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 21:05:41,385(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 21:05:41,549(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-28 22:22:41,107(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 22:22:41,142(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 22:22:41,210(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 22:22:41,417(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-04-28 22:32:26,879(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 22:32:26,971(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 22:32:27,163(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 22:32:27,398(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 22:34:23,109(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 22:34:23,195(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 22:34:23,375(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 22:34:23,546(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 22:41:43,331(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 22:41:43,442(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 22:41:43,634(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 22:41:43,846(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-28 23:55:48,466(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-28 23:55:48,566(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-28 23:55:48,743(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-28 23:55:48,853(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see footer text and total number of programs
+['INFO ]2024-04-29 00:04:35,782(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 00:04:35,812(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 00:04:35,892(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 00:04:39,154(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 00:26:37,214(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 00:26:37,293(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 00:26:37,446(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 00:26:39,389(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 00:47:28,219(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 00:47:28,313(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 00:47:28,491(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 00:50:13,389(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 00:50:13,476(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 00:50:13,624(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 01:02:59,136(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 01:02:59,236(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 01:02:59,418(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 01:05:30,701(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 01:05:30,790(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 01:05:30,947(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 01:11:58,853(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 01:11:58,922(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 01:11:59,055(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 01:15:30,414(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 01:15:30,543(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 01:15:30,748(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 01:44:16,878(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 01:44:16,931(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 01:44:17,009(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 01:46:44,233(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 01:46:44,320(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 01:46:44,455(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 02:53:21,085(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 02:53:21,182(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 02:53:21,337(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 02:53:22,648(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 03:03:32,755(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 03:03:32,843(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 03:03:32,996(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 03:03:34,583(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 03:05:15,921(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 03:05:16,030(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 03:05:16,231(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 03:05:29,764(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 03:06:37,467(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 03:06:37,569(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 03:06:37,747(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 03:06:41,345(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 07:21:32,259(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 07:21:32,310(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 07:21:32,381(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 07:21:44,951(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 07:25:19,913(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 07:25:19,942(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 07:25:19,991(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 07:25:20,056(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-29 07:28:54,055(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 07:28:54,085(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 07:28:54,137(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 07:29:06,656(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 13:42:05,313(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 13:42:05,353(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 13:42:05,408(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 13:54:40,217(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 13:54:40,260(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 13:54:40,314(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 13:55:39,509(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 13:55:39,544(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 13:55:39,599(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 13:56:47,816(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 13:56:47,845(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 13:56:47,899(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 13:58:17,649(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 13:58:17,688(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 13:58:17,742(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 13:59:30,455(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 13:59:30,485(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 13:59:30,537(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 13:59:43,675(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 16:12:55,275(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:12:55,316(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:12:55,372(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:12:55,460(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-29 16:15:35,391(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:15:35,465(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:15:35,596(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:15:48,726(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 16:20:22,427(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:20:22,516(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:20:22,614(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:20:35,830(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 16:25:16,619(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:25:16,673(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:25:16,746(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:25:16,849(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program column headers
+['INFO ]2024-04-29 16:28:08,085(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:28:08,148(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:28:08,219(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:28:08,354(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-29 16:37:53,942(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:37:53,984(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:37:54,061(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:37:54,205(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-29 16:41:01,950(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:41:02,005(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:41:02,091(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:41:02,236(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-29 16:44:07,376(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:44:07,492(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:44:07,703(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:44:08,212(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-29 16:47:29,101(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:47:29,209(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:47:29,386(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:47:29,812(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-29 16:53:15,834(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 16:53:15,907(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 16:53:16,024(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 16:53:16,307(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-29 17:53:30,366(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 17:53:30,449(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 17:53:30,514(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 17:53:32,010(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 17:53:32,076(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 17:53:32,373(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 17:53:32,446(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-29 17:53:33,399(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 17:53:33,458(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 17:53:33,734(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 17:53:33,984(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-04-29 18:58:22,202(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 18:58:22,245(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 18:58:22,310(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 19:14:24,446(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 19:14:24,563(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 19:14:24,753(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 19:14:24,864(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-04-29 19:15:12,510(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 19:15:12,610(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 19:15:12,762(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 19:15:13,167(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-29 23:56:56,421(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-29 23:56:56,539(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-29 23:56:56,716(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-29 23:57:01,496(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:02:50,980(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:02:51,093(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:02:51,212(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:02:53,807(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:04:31,030(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:04:31,158(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:04:31,311(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:04:35,007(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:06:16,979(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:06:17,059(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:06:17,133(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:06:18,832(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:07:52,732(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:07:52,782(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:07:52,850(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:07:54,539(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:09:17,850(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:09:17,891(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:09:17,966(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:09:19,668(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:11:16,356(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:11:16,407(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:11:16,474(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:11:18,251(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:12:02,851(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:12:02,904(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:12:02,969(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:12:04,798(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:16:40,453(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:16:40,501(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:16:40,587(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:16:42,393(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:25:58,184(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:25:58,226(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:25:58,326(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:29:59,544(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:29:59,661(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:29:59,841(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:32:45,681(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:32:45,849(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:32:46,216(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:32:56,366(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:40:00,412(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:40:00,561(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:40:00,764(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:40:10,066(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:42:41,509(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:42:41,626(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:42:41,788(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:42:47,490(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:44:58,471(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:44:58,919(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:44:59,346(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:45:06,761(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:51:41,694(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:51:41,813(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:51:41,988(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 00:51:42,239(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 00:59:57,239(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 00:59:57,324(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 00:59:57,412(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:00:01,910(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 01:03:44,064(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 01:03:44,167(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 01:03:44,318(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:03:49,351(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 01:07:38,044(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 01:07:38,146(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 01:07:38,230(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:07:40,445(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 01:11:23,690(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 01:11:23,739(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 01:11:23,805(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:11:26,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-04-30 01:29:56,862(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 01:29:56,977(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 01:29:57,076(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:31:23,802(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 01:31:23,854(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 01:31:23,929(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:37:01,688(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 01:37:01,763(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 01:37:01,917(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:38:21,033(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 01:38:21,117(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 01:38:21,215(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:44:16,881(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 01:44:16,916(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 01:44:16,982(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:48:57,818(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 01:48:57,869(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-04-30 01:48:57,935(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-04-30 01:48:58,073(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-04-30 01:54:10,077(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 02:49:46,501(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 02:49:46,546(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-04-30 02:49:46,602(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-04-30 02:49:46,724(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-04-30 02:56:27,455(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 02:56:27,500(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-04-30 02:56:27,556(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-04-30 02:56:27,674(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-04-30 02:57:40,252(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 02:57:40,286(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-04-30 02:57:40,339(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-04-30 02:57:40,462(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-04-30 03:00:05,594(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 03:00:05,628(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-04-30 03:00:05,677(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-04-30 03:03:14,909(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 03:03:14,951(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-04-30 03:03:15,011(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-04-30 03:03:15,134(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-04-30 03:07:29,861(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 03:07:29,895(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-04-30 03:07:29,952(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-04-30 03:07:30,112(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-04-30 07:42:10,156(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-04-30 07:42:10,202(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-04-30 07:42:10,257(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-04-30 07:42:10,440(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 01:20:17,590(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 01:20:17,634(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 01:20:17,703(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 01:20:17,817(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-05-01 01:20:18,471(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 01:20:18,499(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 01:20:18,737(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 01:20:18,941(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 02:05:28,360(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 02:05:28,400(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 02:05:28,473(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 02:09:50,903(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 02:09:51,004(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 02:09:51,145(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 02:09:51,486(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 02:20:33,069(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 02:20:33,152(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 02:20:33,251(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 02:23:33,891(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 02:23:33,947(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 02:23:34,013(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 02:24:18,117(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 02:24:18,186(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 02:24:18,263(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 02:31:44,203(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 02:31:44,256(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 02:31:44,336(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 02:57:16,932(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 02:57:16,995(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 02:57:17,092(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 03:24:03,460(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 03:24:03,524(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 03:24:03,589(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 03:26:18,623(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 03:26:18,743(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 03:26:18,961(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 03:29:12,412(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 03:29:12,527(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 03:29:12,731(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 03:29:13,261(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 03:31:58,104(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 03:31:58,171(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 03:31:58,245(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 04:29:19,105(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 04:29:19,148(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 04:29:19,197(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 04:37:05,568(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 04:37:05,604(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 04:37:05,654(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:02:43,700(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:02:43,746(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 07:02:43,808(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 07:02:43,960(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 07:03:30,021(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:03:30,065(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:03:30,114(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:05:21,112(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:05:21,152(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:05:21,201(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:10:09,279(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:10:09,314(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:10:09,366(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:13:32,384(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:13:32,424(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:13:32,472(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:13:50,904(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-05-01 07:20:19,486(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:20:19,530(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:20:19,581(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:24:38,457(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:24:38,492(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:24:38,542(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:24:39,570(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-05-01 07:25:23,311(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:25:23,346(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:25:23,395(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:26:46,694(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:26:46,744(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:26:46,791(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:26:46,904(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-05-01 07:29:51,242(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:29:51,282(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:29:51,335(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:29:51,483(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-05-01 07:41:56,916(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 07:41:56,954(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-01 07:41:57,007(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-01 07:41:57,095(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-05-01 11:28:26,501(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 11:33:30,087(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 11:33:30,152(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 11:33:30,204(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 11:33:30,348(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-01 11:45:00,534(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 11:45:00,568(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 11:45:01,034(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 11:49:19,320(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 11:49:19,359(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 11:49:19,434(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in descending order
+['INFO ]2024-05-01 11:49:19,583(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in descending order
+['INFO ]2024-05-01 12:07:07,874(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 12:07:07,907(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 12:07:07,969(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-01 12:07:08,130(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in ascending order
+['INFO ]2024-05-01 12:07:08,650(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 12:07:08,834(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-01 12:07:08,881(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-01 12:07:09,030(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in descending order
+['INFO ]2024-05-01 12:39:05,789(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 12:39:05,873(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 12:39:07,736(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 12:39:11,322(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 12:39:11,363(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 12:39:11,520(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-01 12:39:11,703(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in ascending order
+['INFO ]2024-05-01 12:39:12,180(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 12:39:12,351(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-01 12:39:12,411(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-01 12:39:12,577(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in descending order
+['INFO ]2024-05-01 12:42:08,597(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 12:42:08,688(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 12:42:10,457(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 12:55:42,486(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 12:55:42,521(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 12:55:44,303(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 12:57:32,448(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 12:57:32,490(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 12:57:34,347(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 13:33:24,736(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 13:33:24,822(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 13:36:10,840(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 13:36:10,894(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 13:36:58,437(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 13:36:58,487(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 13:51:44,058(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 13:51:44,091(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 13:57:04,569(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 13:57:04,613(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 13:59:31,790(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 13:59:31,832(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 14:00:22,508(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 14:00:22,550(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 14:02:40,455(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 14:02:40,498(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 14:02:42,296(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 14:02:43,749(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 14:11:11,513(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 14:11:11,547(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 14:11:13,109(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 14:14:50,274(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 14:14:50,306(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 14:14:51,822(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 14:22:04,584(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 14:22:04,626(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 17:33:47,721(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 17:33:47,762(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 17:33:49,672(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 17:33:52,853(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 17:33:52,870(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 17:40:10,757(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 17:40:10,789(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 17:40:12,744(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 17:40:14,555(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 17:40:15,091(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 17:40:15,109(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 17:44:07,145(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 17:44:07,182(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 17:44:09,186(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 17:44:11,051(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 17:44:11,596(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 17:44:11,614(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 17:45:46,019(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 17:45:46,052(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 17:45:48,010(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 17:45:49,859(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 17:47:44,226(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 17:47:44,257(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 17:47:46,203(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 17:47:48,025(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 17:47:48,588(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 17:47:48,604(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 18:11:12,624(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:11:14,538(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 18:11:14,630(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 18:11:17,559(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:11:17,583(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 18:21:40,767(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:21:42,763(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 18:21:42,840(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 18:21:46,527(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:21:46,550(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 18:24:36,787(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:24:38,872(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 18:24:40,845(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 18:24:44,109(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:24:44,138(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 18:40:17,273(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:40:17,314(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 18:40:19,438(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-01 18:40:21,399(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in ascending order
+['INFO ]2024-05-01 18:40:21,936(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:40:21,952(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 18:53:43,498(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:53:43,530(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 18:53:45,604(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-01 18:53:48,860(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 18:53:48,877(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 19:15:23,228(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:15:25,452(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-01 19:15:27,512(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-01 19:15:31,149(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:15:31,175(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 19:16:47,273(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:16:47,314(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 19:16:47,900(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:26:23,817(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:26:23,859(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 19:26:26,117(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Clicking Program Status Column
+['INFO ]2024-05-01 19:26:28,157(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Status in Ascending Order
+['INFO ]2024-05-01 19:26:28,701(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:26:31,276(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Clicking Program Status Column
+['INFO ]2024-05-01 19:39:42,178(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:39:44,337(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-01 19:40:55,527(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:40:57,681(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-01 19:44:59,481(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:45:01,736(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-01 19:46:41,142(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:48:22,963(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:48:23,006(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 19:48:23,485(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:48:23,879(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:48:24,259(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:48:24,275(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 19:48:24,653(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:48:24,669(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 19:48:25,092(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 19:48:25,108(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 20:34:35,458(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 20:34:35,504(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 20:36:59,133(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 20:36:59,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 20:38:36,115(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 20:38:36,155(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 20:39:44,403(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 20:39:44,450(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 20:40:00,391(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 20:40:00,400(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 20:40:00,443(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 20:40:00,449(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 20:41:48,852(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 20:41:48,885(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 22:05:47,270(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:05:47,306(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 22:05:49,988(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 22:05:52,325(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 22:07:54,968(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:10:57,848(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:11:00,227(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 22:15:52,877(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:15:55,215(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 22:20:27,308(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:20:29,692(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 22:23:34,921(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:23:34,925(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:25:15,238(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:25:17,478(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 22:31:26,110(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:31:28,428(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 22:34:21,555(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:34:23,876(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 22:35:55,053(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 22:36:36,824(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 23:05:01,655(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 23:05:01,747(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 23:05:07,059(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-01 23:05:13,120(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-01 23:06:58,297(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 23:07:03,758(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 23:24:23,355(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 23:24:26,462(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 23:26:14,675(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 23:26:17,617(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 23:31:44,354(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 23:31:46,837(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-01 23:31:49,096(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-01 23:43:16,627(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 23:43:16,676(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 23:43:31,208(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 23:43:31,265(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-01 23:45:15,335(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-01 23:45:15,408(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 00:09:14,873(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 00:09:14,919(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 01:04:29,411(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 01:04:29,458(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 01:04:29,540(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 01:04:31,070(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 01:42:03,170(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 01:47:59,471(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 01:51:44,774(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 01:53:45,102(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 02:35:24,535(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 02:35:24,608(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 02:35:24,669(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 03:04:16,023(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 03:04:16,192(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 03:04:16,257(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 03:05:39,176(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 03:05:39,309(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 03:05:39,368(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 03:06:29,035(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 03:06:29,181(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 03:06:29,241(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 03:06:29,303(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the very first page record on the table
+['INFO ]2024-05-02 03:32:34,854(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 03:32:34,969(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 03:32:35,019(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 03:32:35,071(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the very first page record on the table
+['INFO ]2024-05-02 03:32:35,566(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 03:32:35,591(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 03:32:35,808(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on Batch Link
+['INFO ]2024-05-02 03:32:35,976(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to Batch page
+['INFO ]2024-05-02 03:32:36,353(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 03:32:36,370(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 03:32:36,564(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on User Link
+['INFO ]2024-05-02 03:32:36,810(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to User page
+['INFO ]2024-05-02 03:32:37,218(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 03:32:37,235(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 03:32:37,435(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on logout Link
+['INFO ]2024-05-02 03:32:37,611(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to login page
+['INFO ]2024-05-02 03:33:58,718(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 03:33:58,760(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 03:34:01,150(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-02 03:59:07,017(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 03:59:07,074(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 03:59:09,294(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-02 04:02:29,098(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:02:31,219(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 04:02:31,280(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 04:02:33,314(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 04:02:33,853(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:02:33,878(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:02:36,230(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-02 04:14:58,321(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:15:40,000(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:15:42,066(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 04:15:42,139(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 04:15:44,196(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 04:17:11,060(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:11,100(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:11,147(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:12,394(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:12,413(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:12,616(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:12,649(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-05-02 04:17:13,049(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:13,064(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:13,251(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:13,396(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-05-02 04:17:13,831(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:13,847(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:14,036(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:14,056(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see footer text and total number of programs
+['INFO ]2024-05-02 04:17:14,474(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:14,491(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:14,672(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:14,702(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-05-02 04:17:15,085(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:15,100(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:15,282(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:15,301(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Add New Program button
+['INFO ]2024-05-02 04:17:15,692(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:15,708(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:15,910(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:15,996(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-05-02 04:17:16,376(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:16,390(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:16,575(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:16,646(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program column headers
+['INFO ]2024-05-02 04:17:17,040(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:17,056(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:17,244(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:17,345(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-05-02 04:17:17,915(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:17,933(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:18,139(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:20,645(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-05-02 04:17:21,011(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:21,026(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:21,205(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:21,787(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:17:21,803(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 04:17:21,963(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 04:17:22,023(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see search bar
+['INFO ]2024-05-02 04:18:39,486(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:18:39,521(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:18:39,564(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks next page link on the program table
+['INFO ]2024-05-02 04:18:40,650(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see pagination active link
+['INFO ]2024-05-02 04:18:41,132(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:18:41,151(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:18:43,455(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:18:45,479(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:18:47,459(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:18:47,483(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:18:47,667(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on Batch Link
+['INFO ]2024-05-02 04:18:47,833(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to Batch page
+['INFO ]2024-05-02 04:18:48,306(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:18:48,333(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:18:48,553(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on User Link
+['INFO ]2024-05-02 04:18:48,817(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to User page
+['INFO ]2024-05-02 04:18:49,368(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:18:49,386(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:18:49,574(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on logout Link
+['INFO ]2024-05-02 04:18:49,733(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to login page
+['INFO ]2024-05-02 04:23:29,876(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:23:29,911(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:23:29,951(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks next page link on the program table
+['INFO ]2024-05-02 04:23:31,037(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see pagination active link
+['INFO ]2024-05-02 04:23:31,517(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:23:31,534(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:23:33,960(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:23:35,990(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:23:37,968(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:23:37,994(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:23:38,170(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on Batch Link
+['INFO ]2024-05-02 04:23:38,326(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to Batch page
+['INFO ]2024-05-02 04:23:38,746(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:23:38,769(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:23:38,977(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on User Link
+['INFO ]2024-05-02 04:23:39,228(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to User page
+['INFO ]2024-05-02 04:23:39,686(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 04:23:39,708(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 04:23:39,900(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on logout Link
+['INFO ]2024-05-02 04:23:40,061(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to login page
+['INFO ]2024-05-02 08:27:21,807(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 08:27:21,852(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 08:27:43,394(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 08:27:43,413(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 08:28:04,408(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 08:28:25,412(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 08:28:46,394(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 08:28:46,417(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 11:46:30,451(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:46:30,499(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 11:46:30,542(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks next page link on the program table
+['INFO ]2024-05-02 11:46:31,638(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see pagination active link
+['INFO ]2024-05-02 11:46:32,139(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:46:32,157(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 11:46:32,459(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks last page link
+['INFO ]2024-05-02 11:46:32,495(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the last page record on the table with next page link are disabled
+['INFO ]2024-05-02 11:46:32,915(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:46:33,248(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on last page of program table
+['INFO ]2024-05-02 11:46:33,302(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks first page link
+['INFO ]2024-05-02 11:46:33,351(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the previous page record on the table with pagination
+['INFO ]2024-05-02 11:46:33,849(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:46:34,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 11:46:34,212(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 11:46:34,255(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the very first page record on the table
+['INFO ]2024-05-02 11:46:34,693(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:46:34,711(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 11:46:34,909(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on Batch Link
+['INFO ]2024-05-02 11:46:35,204(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to Batch page
+['INFO ]2024-05-02 11:46:35,639(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:46:35,657(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 11:46:35,870(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on User Link
+['INFO ]2024-05-02 11:46:36,183(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to User page
+['INFO ]2024-05-02 11:46:36,623(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:46:36,639(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 11:46:36,864(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on logout Link
+['INFO ]2024-05-02 11:46:37,012(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to login page
+['INFO ]2024-05-02 11:48:39,856(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:48:39,941(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 11:48:42,073(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-02 11:48:44,475(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-02 11:49:42,068(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:49:44,167(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 11:49:44,226(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 11:51:16,592(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:51:18,817(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 11:51:18,881(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 11:51:20,853(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 11:52:40,643(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:52:40,695(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 11:52:42,660(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-02 11:56:04,536(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:56:04,579(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 11:56:06,526(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-02 11:56:08,338(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in ascending order
+['INFO ]2024-05-02 11:57:03,393(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 11:57:05,342(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:07:20,117(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:07:22,133(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:10:39,741(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:10:41,736(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:12:09,787(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:12:11,815(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:14:42,233(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:14:44,282(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 12:14:44,340(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 12:14:46,214(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 12:17:34,757(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:17:34,799(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:17:36,770(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-02 12:17:38,582(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-02 12:18:50,726(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:18:52,650(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 12:18:52,709(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 12:18:54,593(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 12:23:44,144(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:23:46,122(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 12:23:46,234(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 12:23:48,066(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 12:32:49,933(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:32:52,232(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 12:32:52,303(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 12:32:54,486(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 12:34:02,367(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:34:02,414(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:34:05,628(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-02 12:34:09,413(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in ascending order
+['INFO ]2024-05-02 12:34:41,172(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:34:49,445(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:41:26,453(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:41:32,111(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:43:13,241(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:43:21,433(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:45:28,502(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:45:37,272(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:45:42,448(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in descending order
+['INFO ]2024-05-02 12:46:18,040(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:46:18,140(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:46:23,626(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Clicking Program Status Column
+['INFO ]2024-05-02 12:46:30,689(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Status in Ascending Order
+['INFO ]2024-05-02 12:47:55,374(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:47:55,520(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:48:06,550(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Clicking Program Status Column
+['INFO ]2024-05-02 12:48:13,804(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Status in Ascending Order
+['INFO ]2024-05-02 12:50:58,115(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:51:05,940(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:51:12,692(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Status in Ascending Order
+['INFO ]2024-05-02 12:52:19,671(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:19,823(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 12:52:20,019(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 12:52:26,074(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:32,145(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:36,920(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:40,359(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:40,452(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 12:52:41,013(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 12:52:41,211(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-05-02 12:52:43,299(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:43,377(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 12:52:43,777(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 12:52:43,884(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Add New Program button
+['INFO ]2024-05-02 12:52:46,239(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:46,410(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 12:52:46,938(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 12:52:47,876(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-05-02 12:52:50,522(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:54,489(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:57,285(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:52:57,359(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 12:52:57,726(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 12:53:11,858(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:53:11,960(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 12:53:12,437(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 12:53:23,935(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:53:24,024(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 12:53:24,592(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 12:53:25,049(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see search bar
+['INFO ]2024-05-02 12:53:27,995(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:53:28,101(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:53:34,999(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-02 12:53:40,987(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-02 12:53:42,633(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:53:52,247(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 12:53:52,471(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 12:53:59,574(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 12:54:02,185(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:54:02,244(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:54:08,838(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-02 12:54:14,517(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in ascending order
+['INFO ]2024-05-02 12:54:16,504(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:54:22,601(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:54:28,320(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in descending order
+['INFO ]2024-05-02 12:54:29,976(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:54:30,282(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:54:35,790(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Clicking Program Status Column
+['INFO ]2024-05-02 12:54:40,902(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Status in Ascending Order
+['INFO ]2024-05-02 12:54:42,439(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:54:48,635(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 12:54:53,970(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Status in Ascending Order
+['INFO ]2024-05-02 12:54:55,641(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:54:55,699(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:54:56,070(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks next page link on the program table
+['INFO ]2024-05-02 12:54:57,287(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see pagination active link
+['INFO ]2024-05-02 12:54:58,638(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:54:58,700(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:54:59,122(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks last page link
+['INFO ]2024-05-02 12:54:59,219(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the last page record on the table with next page link are disabled
+['INFO ]2024-05-02 12:55:00,953(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:55:01,423(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on last page of program table
+['INFO ]2024-05-02 12:55:01,610(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks first page link
+['INFO ]2024-05-02 12:55:01,767(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the previous page record on the table with pagination
+['INFO ]2024-05-02 12:55:04,221(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:55:05,101(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 12:55:05,402(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 12:55:05,666(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the very first page record on the table
+['INFO ]2024-05-02 12:55:07,671(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:55:07,765(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:55:08,335(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on Batch Link
+['INFO ]2024-05-02 12:55:08,908(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to Batch page
+['INFO ]2024-05-02 12:55:11,091(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:55:11,156(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:55:11,592(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on User Link
+['INFO ]2024-05-02 12:55:12,088(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to User page
+['INFO ]2024-05-02 12:55:13,506(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 12:55:13,551(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 12:55:13,828(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on logout Link
+['INFO ]2024-05-02 12:55:14,183(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to login page
+['INFO ]2024-05-02 13:14:52,126(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:52,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:14:52,217(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:14:53,334(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:53,353(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:14:53,548(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:14:53,575(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a heading text as Manage Program
+['INFO ]2024-05-02 13:14:54,007(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:54,025(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:14:54,210(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:14:54,381(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see text and pagination controls
+['INFO ]2024-05-02 13:14:54,883(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:54,912(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:14:55,114(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:14:55,135(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see footer text and total number of programs
+['INFO ]2024-05-02 13:14:55,542(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:55,559(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:14:55,748(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:14:55,779(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-05-02 13:14:56,183(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:56,199(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:14:56,391(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:14:56,414(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Add New Program button
+['INFO ]2024-05-02 13:14:56,844(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:56,862(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:14:57,059(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:14:57,160(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-05-02 13:14:57,792(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:57,819(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:14:58,025(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:14:58,146(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program column headers
+['INFO ]2024-05-02 13:14:58,734(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:58,761(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:14:58,953(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:14:59,112(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-05-02 13:14:59,803(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:14:59,859(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:15:00,019(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:15:03,775(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-05-02 13:15:04,398(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:04,424(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:15:04,684(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:15:07,239(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:07,265(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:15:07,474(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:15:07,590(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see search bar
+['INFO ]2024-05-02 13:15:08,133(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:08,158(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:15:11,598(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon
+['INFO ]2024-05-02 13:15:15,444(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in ascending order
+['INFO ]2024-05-02 13:15:16,227(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:19,832(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 13:15:19,926(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 13:15:22,899(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 13:15:23,463(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:23,486(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:15:26,397(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-02 13:15:29,130(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in ascending order
+['INFO ]2024-05-02 13:15:29,788(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:32,637(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 13:15:35,603(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in descending order
+['INFO ]2024-05-02 13:15:36,466(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:36,502(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:15:41,244(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Clicking Program Status Column
+['INFO ]2024-05-02 13:15:44,300(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Status in Ascending Order
+['INFO ]2024-05-02 13:15:44,947(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:48,134(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 13:15:51,046(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Status in Ascending Order
+['INFO ]2024-05-02 13:15:51,690(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:51,718(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:15:51,920(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks next page link on the program table
+['INFO ]2024-05-02 13:15:53,060(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see pagination active link
+['INFO ]2024-05-02 13:15:53,466(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:53,485(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:15:53,781(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks last page link
+['INFO ]2024-05-02 13:15:53,811(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the last page record on the table with next page link are disabled
+['INFO ]2024-05-02 13:15:54,288(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:15:54,644(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on last page of program table
+['INFO ]2024-05-02 13:16:15,477(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:16:36,658(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:16:36,693(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:16:36,881(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on Batch Link
+['INFO ]2024-05-02 13:16:37,150(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to Batch page
+['INFO ]2024-05-02 13:16:37,564(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:16:37,580(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:16:37,820(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on User Link
+['INFO ]2024-05-02 13:16:38,103(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to User page
+['INFO ]2024-05-02 13:16:38,474(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:16:38,487(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:16:38,696(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on logout Link
+['INFO ]2024-05-02 13:16:38,937(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to login page
+['INFO ]2024-05-02 13:20:23,938(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:20:23,994(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on last page of program table
+['INFO ]2024-05-02 13:20:24,040(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks first page link
+['INFO ]2024-05-02 13:20:45,436(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:20:45,820(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 13:27:15,305(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:27:15,381(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on last page of program table
+['INFO ]2024-05-02 13:27:15,432(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks first page link
+['INFO ]2024-05-02 13:27:15,498(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the previous page record on the table with pagination
+['INFO ]2024-05-02 13:27:16,025(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:27:16,427(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 13:27:16,474(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 13:27:16,521(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the very first page record on the table
+['INFO ]2024-05-02 13:35:19,811(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:35:20,423(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on last page of program table
+['INFO ]2024-05-02 13:35:20,921(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks first page link
+['INFO ]2024-05-02 13:35:21,574(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the previous page record on the table with pagination
+['INFO ]2024-05-02 13:35:25,116(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:35:26,036(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 13:35:26,358(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 13:35:26,670(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the very first page record on the table
+['INFO ]2024-05-02 13:38:47,213(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:38:47,359(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:38:47,598(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:38:51,994(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:38:54,535(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:38:54,597(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:38:54,846(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:15,903(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:15,939(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:39:16,133(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:16,168(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see footer text and total number of programs
+['INFO ]2024-05-02 13:39:16,612(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:16,632(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:39:16,822(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:16,866(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Delete button disabaled
+['INFO ]2024-05-02 13:39:17,356(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:17,393(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:39:17,563(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:17,588(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see a Add New Program button
+['INFO ]2024-05-02 13:39:18,477(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:18,535(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:39:18,771(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:19,089(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the number of records
+['INFO ]2024-05-02 13:39:21,131(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:21,217(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:39:21,611(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:21,925(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program column headers
+['INFO ]2024-05-02 13:39:23,735(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:23,788(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:39:24,063(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:24,477(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program sorting arrows
+['INFO ]2024-05-02 13:39:25,991(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:26,058(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:39:26,355(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:33,312(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the program check boxes
+['INFO ]2024-05-02 13:39:34,216(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:34,260(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:39:34,467(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:37,964(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:38,002(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:39:38,258(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:39:38,423(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see search bar
+['INFO ]2024-05-02 13:39:39,624(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:41,267(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:45,473(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Program Name is in ascending order
+['INFO ]2024-05-02 13:39:45,626(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks the program name sort icon and the data is in ascending order
+['INFO ]2024-05-02 13:39:49,503(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Names in descending order
+['INFO ]2024-05-02 13:39:50,403(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:39:50,438(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:39:54,597(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)- Clicking Program Description column
+['INFO ]2024-05-02 13:39:58,688(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in ascending order
+['INFO ]2024-05-02 13:39:59,780(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:03,992(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 13:40:07,734(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Description in descending order
+['INFO ]2024-05-02 13:40:08,860(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:10,493(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:14,548(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see program description data in ascending order
+['INFO ]2024-05-02 13:40:18,395(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Sorting Program Status in Ascending Order
+['INFO ]2024-05-02 13:40:19,307(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:19,345(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:40:19,560(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks next page link on the program table
+['INFO ]2024-05-02 13:40:20,722(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin see pagination active link
+['INFO ]2024-05-02 13:40:21,282(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:21,307(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:40:21,639(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks last page link
+['INFO ]2024-05-02 13:40:21,681(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the last page record on the table with next page link are disabled
+['INFO ]2024-05-02 13:40:22,534(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:22,913(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on last page of program table
+['INFO ]2024-05-02 13:40:23,003(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks first page link
+['INFO ]2024-05-02 13:40:23,078(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the previous page record on the table with pagination
+['INFO ]2024-05-02 13:40:23,958(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:24,377(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on previous program page
+['INFO ]2024-05-02 13:40:24,481(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks start page link
+['INFO ]2024-05-02 13:40:24,566(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin should see the very first page record on the table
+['INFO ]2024-05-02 13:40:25,403(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:25,441(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:40:25,681(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on Batch Link
+['INFO ]2024-05-02 13:40:25,940(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to Batch page
+['INFO ]2024-05-02 13:40:26,706(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:26,740(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:40:27,007(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on User Link
+['INFO ]2024-05-02 13:40:27,351(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to User page
+['INFO ]2024-05-02 13:40:28,140(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:40:28,185(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on Manage Program Page
+['INFO ]2024-05-02 13:40:28,430(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on logout Link
+['INFO ]2024-05-02 13:40:28,706(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is redirected to login page
+['INFO ]2024-05-02 13:52:28,233(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:52:36,543(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:52:37,018(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar
+['INFO ]2024-05-02 13:52:58,379(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin logged on LMS Portal
+['INFO ]2024-05-02 13:53:02,386(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin is on dashboard page of program module
+['INFO ]2024-05-02 13:53:02,504(yyyy-MM-ddHH:mm:ss.SSS][main]com.LMS.Utils.LoggerLoad1)-Admin clicks on program naviagtion bar

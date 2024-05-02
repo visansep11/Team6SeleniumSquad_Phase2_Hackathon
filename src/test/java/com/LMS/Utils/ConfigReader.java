@@ -25,7 +25,13 @@ public class ConfigReader {
 		}
 		return prop;
 	}
-
+	public static String getBrowser() {
+		String browserName = prop.getProperty("browser");
+		if (browserName != null)
+			return browserName;
+		else
+			throw new RuntimeException("Browser is  not specified in the Configuration.properties file.");
+	}
 	public static String getExcelFilePath() {
 		String excelfilelpath = prop.getProperty("excelFilePath");
 		if (excelfilelpath != null)
@@ -36,13 +42,49 @@ public class ConfigReader {
 
 	// HomePage URL
 	public static String getHomePageUrl() {
-		String homePageurl = prop.getProperty("baseurl");
+		String homePageurl = prop.getProperty("loginURL");
 		if (homePageurl != null)
 			return homePageurl;
 		else
 			throw new RuntimeException("HomePageurl not specified in the Config.properties file");
 	}
+	public static String getDashboardPageUrl() {
+		String dashboardPageURL = prop.getProperty("dashboardURL");
+		if (dashboardPageURL != null)
+			return dashboardPageURL;
+		else
+			throw new RuntimeException("dashboardPageURL not specified in the Config.properties file");
+	}
+	public static String getManageProgramUrl() {
+		String manageProgramURL = prop.getProperty("manageProgramURL");
+		if (manageProgramURL != null)
+			return manageProgramURL;
+		else
+			throw new RuntimeException("manageProgramURL not specified in the Config.properties file");
+	}
+	public static String getBatchUrl() {
+		String manageBatchURL = prop.getProperty("batchURL");
+		if (manageBatchURL != null)
+			return manageBatchURL;
+		else
+			throw new RuntimeException("manageBatchURL not specified in the Config.properties file");
+	}
+	public static String getUserUrl() {
+		String manageUserURL = prop.getProperty("userURL");
+		if (manageUserURL != null)
+			return manageUserURL;
+		else
+			throw new RuntimeException("manageUserURL not specified in the Config.properties file");
+	}
+	// ManageUserPage URL
 
-	
-		
+
+	public static String getManageUserPage() {
+		String userPageurl = prop.getProperty("userURL");
+		if (userPageurl != null)
+			return userPageurl;
+		else
+			throw new RuntimeException("userPageurl not specified in the Config.properties file");
+	}
 }
+
